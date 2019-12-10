@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UsoGson7T11</string>
+    <string name="Nombre">Escribe Nombre:</string>
+    <string name="nombre">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Correo">Ingresa correo</string>
+    <string name="curp">Ingresa tu curp</string>
+    <string name="CURP">CURP</string>
+    <string name="convertir">Convertir a GSON</string>
+</resources>
